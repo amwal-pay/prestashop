@@ -5,7 +5,7 @@
 
 AmwalPay PrestaShop module is compatible with PrestaShop versions 1.6, 1.7 and 8.
 
-1. Download the AmwalPay PrestaShop module from here.
+1. Download the AmwalPay PrestaShop module from [here](https://github.com/amwal-pay/prestashop/raw/refs/heads/main/amwalpay.zip).
 2. Login into Prestashop admin panel → Modules → Module Manager → Upload a module.
 3. Select the AmwalPay downloaded .zip file.
 4. You will see that the module is now uploaded and installed.
